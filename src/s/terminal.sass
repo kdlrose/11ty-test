@@ -1,0 +1,47 @@
+@use "perona.sass"
+@use "fonts.sass"
+
+@mixin mobile
+  @media (max-width: 599px)
+    @content
+
+:root
+  background-color: var(--black)
+  color: var(--bright-white)
+
+body
+  font-family: 'Iosevka Web', monospace
+  font-size: 22px
+  font-weight: 500
+  margin: 1em
+  width: 40em
+
+  @include mobile
+    width: auto
+
+strong
+  color: var(--bright-magenta)
+  font-weight: 700
+
+em
+  font-style: normal
+  color: var(--bright-yellow)
+
+a
+  color: var(--bright-cyan)
+
+a:hover
+  color: var(--green)
+
+h1, h2
+  font-size: 1em
+  font-weight: inherit
+  color: inherit
+  margin: 0.5em 0
+
+h2
+  background-color: var(--blue)
+  color: var(--black)
+  text-decoration: none
+  display: inline-block
+  padding: 2px 4px

@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&display=swap");
+:root {
+  --black: #281520;
+  --bright-black: #683152;
+  --red: #a90f30;
+  --bright-red: #de3557;
+  --green: #a75fb4;
+  --bright-green: #de91da;
+  --yellow: #e65667;
+  --bright-yellow: #eb8490;
+  --blue: #8dafe2;
+  --bright-blue: #b4cff8;
+  --magenta: #b54067;
+  --bright-magenta: #d65c85;
+  --cyan: #f269ad;
+  --bright-cyan: #ff99cc;
+  --white: #b1819e;
+  --bright-white: #f4b9dc;
+}
+
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("/f/Iosevka-Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("/f/Iosevka-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Iosevka Aile Web";
+  font-display: swap;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("/f/IosevkaAile-Medium.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Iosevka Aile Web";
+  font-display: swap;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: italic;
+  src: url("/f/IosevkaAile-MediumItalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("/f/IosevkaAile-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Iosevka Web";
+  font-display: swap;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: italic;
+  src: url("/f/IosevkaAile-BoldItalic.woff2") format("woff2");
+}
+:root {
+  background-color: var(--black);
+  color: var(--bright-white);
+}
+
+body {
+  font-family: "Iosevka Web", monospace;
+  font-size: 22px;
+  font-weight: 500;
+  margin: 1em;
+  width: 40em;
+}
+@media (max-width: 599px) {
+  body {
+    width: auto;
+  }
+}
+
+strong {
+  color: var(--bright-magenta);
+  font-weight: 700;
+}
+
+em {
+  font-style: normal;
+  color: var(--bright-yellow);
+}
+
+a {
+  color: var(--bright-cyan);
+}
+
+a:hover {
+  color: var(--green);
+}
+
+h1, h2 {
+  font-size: 1em;
+  font-weight: inherit;
+  color: inherit;
+  margin: 0.5em 0;
+}
+
+h2 {
+  background-color: var(--blue);
+  color: var(--black);
+  text-decoration: none;
+  display: inline-block;
+  padding: 2px 4px;
+}
+
+/*# sourceMappingURL=terminal.css.map */
