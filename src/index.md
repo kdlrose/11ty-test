@@ -1,6 +1,6 @@
 ---
-layout: terminal.html
 title: "kdlr"
+layout: terminal.html
 ---
 
 # **kathryn**@**kdlrose** *~* me -h
@@ -12,7 +12,7 @@ I'm a dramaturg and nascent software developer who's been making web pages since
 
 Previously, I've produced new plays with Audible and done production dramaturgy at various LORT and smaller theaters. I do script consultations with something of a calling card for religious trauma and/or rural America. Writers I've worked with in this capacity include Kaela Mei-Shing Garvin, Kimberly Belflower, and Alex Lin.
 
-I also trade quackery (divination) for money. It's how I [learned Python](https://codeberg.org/spica/tarot).
+I also trade quackery (divination) for money. It's [how I learned Python](https://codeberg.org/spica/tarot).
 
 # **kathryn**@**kdlrose** *~* services
 
