@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&display=swap");
 :root {
   --black: #281520;
   --bright-black: #683152;
@@ -24,7 +23,7 @@
   font-weight: 500;
   font-stretch: normal;
   font-style: normal;
-  src: url("/f/Iosevka-Medium.woff2") format("woff2");
+  src: url("../f/Iosevka-Medium.woff2") format("woff2");
 }
 @font-face {
   font-family: "Iosevka Web";
@@ -32,23 +31,7 @@
   font-weight: 700;
   font-stretch: normal;
   font-style: normal;
-  src: url("/f/Iosevka-Bold.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Iosevka Aile Web";
-  font-display: swap;
-  font-weight: 500;
-  font-stretch: normal;
-  font-style: normal;
-  src: url("/f/IosevkaAile-Medium.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Iosevka Aile Web";
-  font-display: swap;
-  font-weight: 500;
-  font-stretch: normal;
-  font-style: italic;
-  src: url("/f/IosevkaAile-MediumItalic.woff2") format("woff2");
+  src: url("../f/Iosevka-Bold.woff2") format("woff2");
 }
 @font-face {
   font-family: "Iosevka Web";
@@ -56,15 +39,7 @@
   font-weight: 700;
   font-stretch: normal;
   font-style: normal;
-  src: url("/f/IosevkaAile-Bold.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Iosevka Web";
-  font-display: swap;
-  font-weight: 700;
-  font-stretch: normal;
-  font-style: italic;
-  src: url("/f/IosevkaAile-BoldItalic.woff2") format("woff2");
+  src: url("../IosevkaAile-Bold.woff2") format("woff2");
 }
 :root {
   background-color: var(--black);
