@@ -35,4 +35,4 @@ If you would like to be a guinea pig for this, let me know:
 
 - Email: krdlrosa at gmail dot com
 
-This site uses my [Perona theme](https://codeberg.org/spica/perona.nvim)
+This site uses my [Moon Queen theme](https://codeberg.org/spica/moonqueen.nvim)

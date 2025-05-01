@@ -1,11 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Mona+Sans:ital,wght@0,200..900;1,200..900&display=swap");
 @font-face {
   font-family: "Iosevka Web";
   font-display: swap;
   font-weight: 500;
   font-stretch: normal;
   font-style: normal;
-  src: url("/f/Iosevka-Medium.woff2") format("woff2");
+  src: url("../f/Iosevka-Medium.woff2") format("woff2");
 }
 @font-face {
   font-family: "Iosevka Web";
@@ -13,23 +12,7 @@
   font-weight: 700;
   font-stretch: normal;
   font-style: normal;
-  src: url("/f/Iosevka-Bold.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Iosevka Aile Web";
-  font-display: swap;
-  font-weight: 500;
-  font-stretch: normal;
-  font-style: normal;
-  src: url("/f/IosevkaAile-Medium.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Iosevka Aile Web";
-  font-display: swap;
-  font-weight: 500;
-  font-stretch: normal;
-  font-style: italic;
-  src: url("/f/IosevkaAile-MediumItalic.woff2") format("woff2");
+  src: url("../f/Iosevka-Bold.woff2") format("woff2");
 }
 @font-face {
   font-family: "Iosevka Web";
@@ -37,33 +20,25 @@
   font-weight: 700;
   font-stretch: normal;
   font-style: normal;
-  src: url("/f/IosevkaAile-Bold.woff2") format("woff2");
-}
-@font-face {
-  font-family: "Iosevka Web";
-  font-display: swap;
-  font-weight: 700;
-  font-stretch: normal;
-  font-style: italic;
-  src: url("/f/IosevkaAile-BoldItalic.woff2") format("woff2");
+  src: url("../IosevkaAile-Bold.woff2") format("woff2");
 }
 :root {
-  --black: #281520;
-  --bright-black: #683152;
-  --red: #a90f30;
-  --bright-red: #de3557;
-  --green: #a75fb4;
-  --bright-green: #de91da;
-  --yellow: #e65667;
-  --bright-yellow: #eb8490;
-  --blue: #8dafe2;
-  --bright-blue: #b4cff8;
-  --magenta: #b54067;
-  --bright-magenta: #d65c85;
-  --cyan: #f269ad;
-  --bright-cyan: #ff99cc;
-  --white: #b1819e;
-  --bright-white: #f4b9dc;
+  --black: #241a37;
+  --bright-black: #513b7d;
+  --red: #ef434c;
+  --bright-red: #fc737a;
+  --green: #6ca522;
+  --bright-green: #b6ca68;
+  --yellow: #ffc233;
+  --bright-yellow: #ffdd8f;
+  --blue: #508ae2;
+  --bright-blue: #7cacf4;
+  --magenta: #8d77f8;
+  --bright-magenta: #bcaffd;
+  --cyan: #e873d1;
+  --bright-cyan: #f7a1e6;
+  --white: #9181b1;
+  --bright-white: #d0c3ea;
 }
 
 body {
@@ -82,7 +57,7 @@ body {
 }
 
 h1, h2, h3 {
-  color: var(--bright-magenta);
+  color: var(--cyan);
 }
 
 h2, h3, h4 {
@@ -94,8 +69,8 @@ h4 {
 }
 
 a {
-  color: var(--green);
+  color: var(--blue);
   text-decoration-thickness: 2px;
 }
 
-/*# sourceMappingURL=styles.css.map */
+/*# sourceMappingURL=resume.css.map */
