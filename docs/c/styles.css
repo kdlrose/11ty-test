@@ -43,53 +43,70 @@
 }
 :root {
   background-color: var(--black);
-  color: var(--bright-white);
 }
 
 body {
-  font-family: "Iosevka Web", monospace;
-  font-size: 20px;
+  font-family: "Iosevka Web";
+  font-size: 22px;
   font-weight: 500;
-  margin: 1em;
-  width: 40em;
+  color: var(--bright-white);
 }
 @media (max-width: 599px) {
   body {
+    width: 90%;
+  }
+}
+
+h1 strong {
+  color: var(--magenta);
+}
+h1 em {
+  color: var(--bright-yellow);
+  font-style: normal;
+}
+
+h1 {
+  font-size: 1em;
+  margin: 0;
+  font-weight: inherit;
+}
+
+h2 {
+  background-color: var(--bright-red);
+  color: var(--black);
+  display: inline-block;
+  font-size: 1em;
+  font-weight: inherit;
+  margin: 1em 0 0;
+  padding: 2px 0.5em;
+}
+
+section, article {
+  width: 40em;
+  margin: 1em;
+}
+@media (max-width: 599px) {
+  section, article {
     width: auto;
   }
 }
 
-strong {
-  color: var(--bright-yellow);
-  font-weight: 700;
-}
-
-em {
-  font-style: normal;
-  color: var(--bright-blue);
-}
-
-a {
+section ul strong {
   color: var(--bright-cyan);
 }
 
+a {
+  color: var(--bright-yellow);
+}
+
 a:hover {
-  color: var(--green);
+  color: var(--bright-green);
 }
 
-h1, h2 {
-  font-size: 1em;
-  font-weight: inherit;
-  color: inherit;
-  margin: 0.5em 0;
-}
-
-h2 {
-  background-color: var(--magenta);
-  color: var(--black);
-  text-decoration: none;
+code {
+  color: var(--white);
+  padding: 2px;
   display: inline-block;
-  padding: 2px 4px;
 }
 
-/*# sourceMappingURL=terminal.css.map */
+/*# sourceMappingURL=styles.css.map */

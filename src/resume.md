@@ -13,6 +13,7 @@ IT career changer recovering from professional theater. While I'm currently on t
 
 ### Certifications
 - CompTIA A+ Core 1, April 2025
+- CompTIA A+ Core 2, May 2025
 
 ## Skills
 
@@ -79,11 +80,13 @@ IT career changer recovering from professional theater. While I'm currently on t
 
 ## Projects
 
-(mostly at [codeberg.org/spica](https://codeberg.org/spica))
+(mostly at [codeberg.org/sailorfe](https://codeberg.org/sailorfe))
 
-- [tarot.py](https://codeberg.org/spica/tarot) (Python). Minimal command-line deck using the random library.
-- [nick cave lyric search](https://kdlrose.github.io/nick-cave) (React). Lyric search for Nick Cave & The Bad Seeds, Grinderman, and Nick Cave & Warren Ellis.
-- [perona.nvim](https://codeberg.org/spica/perona.nvim) (Lua, Vimscript). Bubblegum goth Neovim colorscheme with ports for foot, Alacritty, and more.
+- [sweater.py](https://codeberg.org/sailorfe/sweater.py) (Python). A simple stitch calculator for knitting seamless sweaters.
+- [tarot.py](https://codeberg.org/sailorfe/tarot.py) (Python). Minimal command-line deck using the random library.
+- [nick cave lyric search](https://kdlrose.github.io/nick-cave) (JavaScript). Lyric search for Nick Cave & The Bad Seeds, Grinderman, and Nick Cave & Warren Ellis.
+- [perona.nvim](https://codeberg.org/sailorfe/perona.nvim) (Lua, Vimscript). Bubblegum goth Neovim colorscheme with ports for foot, Alacritty, and more.
+- [moonqueen.nvim](https://codeberg.org/sailorfe/perona.nvim) (Lua, Vimscript). Magical girl Neovim colorscheme with ports for foot, Alacritty, and more.
 
 (*・ω・)ﾉ
 

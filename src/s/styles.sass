@@ -1,0 +1,63 @@
+@use "moonqueen.sass"
+@use "fonts.sass"
+
+@mixin mobile
+  @media (max-width: 599px)
+    @content
+
+:root
+  background-color: var(--black)
+
+body
+  font-family: "Iosevka Web"
+  font-size: 22px
+  font-weight: 500
+  color: var(--bright-white)
+
+  @include mobile
+    width: 90%
+
+h1
+  strong
+    color: var(--magenta)
+
+  em
+    color: var(--bright-yellow)
+    font-style: normal
+
+h1
+  font-size: 1em
+  margin: 0
+  font-weight: inherit
+
+h2
+  background-color: var(--bright-red)
+  color: var(--black)
+  display: inline-block
+  font-size: 1em
+  font-weight: inherit
+  margin: 1em 0 0
+  padding: 2px 0.5em
+
+section, article
+  width: 40em
+  margin: 1em
+
+  @include mobile
+    width: auto
+
+section
+  ul
+    strong
+      color: var(--bright-cyan)
+
+a
+  color: var(--bright-yellow)
+
+a:hover
+  color: var(--bright-green)
+
+code
+  color: var(--white)
+  padding: 2px
+  display: inline-block

@@ -58,21 +58,27 @@ body {
 }
 
 h1 strong {
-  color: var(--cyan);
+  color: var(--magenta);
 }
 h1 em {
   color: var(--bright-yellow);
   font-style: normal;
 }
 
-h1, h2 {
+h1 {
   font-size: 1em;
   margin: 0;
   font-weight: inherit;
 }
 
 h2 {
-  color: var(--white);
+  background-color: var(--bright-red);
+  color: var(--black);
+  display: inline-block;
+  font-size: 1em;
+  font-weight: inherit;
+  margin: 1em 0 0;
+  padding: 2px 0.5em;
 }
 
 section, article {
@@ -83,6 +89,10 @@ section, article {
   section, article {
     width: auto;
   }
+}
+
+section ul strong {
+  color: var(--bright-cyan);
 }
 
 a {
@@ -99,4 +109,4 @@ code {
   display: inline-block;
 }
 
-/*# sourceMappingURL=terminal.css.map */
+/*# sourceMappingURL=styles.css.map */
