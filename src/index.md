@@ -3,7 +3,7 @@ title: "kdlr"
 layout: terminal.html
 ---
 
-# **kathryn@kdlrose** ~ *$* about
+# **kathryn@kdlrose** ~ *$* about -h<span class="cursor">█</span>
 
 - [Resume](/resume)
 - [Git](https://codeberg.org/sailorfe)
