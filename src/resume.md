@@ -100,7 +100,7 @@ IT career changer recovering from professional theater. Something of an operatin
 
 - [sweater.py](https://codeberg.org/sailorfe/sweater.py) (Python). A simple stitch calculator for knitting seamless sweaters.
 - [tarot.py](https://codeberg.org/sailorfe/tarot.py) (Python). Minimal command-line deck using the random library.
-- [nick cave lyric search](https://kdlrose.github.io/nick-cave) (JavaScript). Lyric search for Nick Cave & The Bad Seeds, Grinderman, and Nick Cave & Warren Ellis.
+- [nick cave lyric search](https://kdlrose.github.io/nick-cave) (React). Lyric search for Nick Cave & The Bad Seeds, Grinderman, and Nick Cave & Warren Ellis.
 - [perona.nvim](https://codeberg.org/sailorfe/perona.nvim) (Lua, Vimscript). Bubblegum goth Neovim colorscheme with ports for foot, Alacritty, and more.
 - [moonqueen.nvim](https://codeberg.org/sailorfe/moonqueen.nvim) (Lua, Vimscript). Magical girl Neovim colorscheme with ports for foot, Alacritty, and more.
 
