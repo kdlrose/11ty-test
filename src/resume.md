@@ -7,31 +7,13 @@ kathryn de la rosa | she/her | **krdlrosa at gmail dot com** | [kdlrose.github.i
 
 IT career changer recovering from professional theater. Something of an operating system whisperer in the order of Linux, macOS, then Windows. I've been a web developer since elementary school but now love TUIs, servers, and scripting mostly in Python. I write everything in Neovim.
 
-## Education
-
-- BA, Indiana University Bloomington, 2015-19
-
-### Certifications
-- CompTIA A+, May 2025, ID: [WF4RXLVSWEVESFXJ](https://verify.comptia.org)
-
 ## Skills
 
-### Languages
+- **languages:** *proficient in* python, css/sass, html/xml; *okay at* lua; *learning* bash
+- **OSes**: linux (debian, ubuntu), macOS, Windows 10 & 11, chromeOS
+- **technologies**: git, docker, oracle VM
 
-- CSS/Sass, ~19 years
-- HTML, ~19 years
-- Python, 1 year
-- bash, 1 year
-- lua, just enough to configure nvim
-
-### Technologies
-
-- Linux, macOS, Windows
-- Git
-- Docker
-- Oracle VM
-
-## Professional History
+## Work History
 
 ### Audible Theater
 #### 2021–23, Associate Producer
@@ -103,6 +85,24 @@ IT career changer recovering from professional theater. Something of an operatin
 - [nick cave lyric search](https://kdlrose.github.io/nick-cave) (React). Lyric search for Nick Cave & The Bad Seeds, Grinderman, and Nick Cave & Warren Ellis.
 - [perona.nvim](https://codeberg.org/sailorfe/perona.nvim) (Lua, Vimscript). Bubblegum goth Neovim colorscheme with ports for foot, Alacritty, and more.
 - [moonqueen.nvim](https://codeberg.org/sailorfe/moonqueen.nvim) (Lua, Vimscript). Magical girl Neovim colorscheme with ports for foot, Alacritty, and more.
+
+## Education
+
+- United Theological Seminary of the Twin Cities, 2021-23
+- BA, Indiana University Bloomington, 2015-19
+
+### Certifications
+- CompTIA A+, May 2025, ID: [WF4RXLVSWEVESFXJ](https://verify.comptia.org)
+
+
+## Interests
+
+- early modern Catholicism
+- Bertolt Brecht
+- servers
+- Linux
+- electric guitar
+- knitting and fiber conservation
 
 (*・ω・)ﾉ
 
