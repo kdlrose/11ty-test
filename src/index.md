@@ -8,21 +8,15 @@ layout: terminal.html
 - [Resume](/resume)
 - [Git](https://codeberg.org/sailorfe)
 
-I'm a dramaturg and nascent software developer who's been making web pages since the first GWB administration. I fell in love with Linux between freelance theater gigs and a grad degree in religious studies, e.g. too broke to replace a Intel MacBook Air at end-of-support, and now I'm a [Neo](https://neovim.io)/[vim](https://www.vim.org/) evangelist learning everything I can about server administration.
+I'm a dramaturg who fell in love with Linux between freelance theater gigs and a grad degree in religious studies, e.g. too broke to replace an Intel MacBook Air at end-of-support. My first code project was a Neopets page about *High School Musical* and now I automate desktop tasks with Python.
 
 Previously, I've produced new plays with Audible and done production dramaturgy at various LORT and smaller theaters. I do script consultations with something of a calling card for religious trauma and/or rural America. Writers I've worked with in this capacity include Kaela Mei-Shing Garvin, Kimberly Belflower, and Alex Lin.
-
-I also trade quackery (divination) for money. It's [how I learned Python](https://codeberg.org/sailorfe/tarot.py).
 
 # **kathryn@kdlrose** ~ *$* services
 
 ## Services
 
-All at sliding scale rates.
-
 - **Script consultation** from $80 usually over Zoom or phone.
-- **Tarot reading** from $20 depending on spread size, usually over phone.
-- **Astrological reading** from $60, usually over Zoom.
 
 If you would like to be a guinea pig for this, let me know:
 
@@ -35,4 +29,4 @@ If you would like to be a guinea pig for this, let me know:
 
 - Email: krdlrosa at gmail dot com
 
-This site uses my [Moon Queen theme](https://codeberg.org/sailorfe/moonqueen.nvim)
+This site uses my [Perona theme](https://codeberg.org/sailorfe/perona.nvim)

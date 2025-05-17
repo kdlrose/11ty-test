@@ -5,20 +5,31 @@ layout: resume.html
 # kdlr
 kathryn de la rosa | she/her | **krdlrosa at gmail dot com** | [kdlrose.github.io](https://kdlrose.github.io)
 
-IT career changer recovering from professional theater. While I'm currently on the lookout for help desk to get my feet wet, my larger goal is managing Linux servers and never seeing a GUI if I can help it, though I have been a front-end developer since before Taylor Swift's debut album. I wrote this resume in Neovim and built it with [Eleventy](https://11ty.dev).
+IT career changer recovering from professional theater. Something of an operating system whisperer in the order of Linux, macOS, then Windows. I've been a web developer since elementary school but now love TUIs, servers, and scripting mostly in Python. I write everything in Neovim.
 
 ## Education
 
 - BA, Indiana University Bloomington, 2015-19
 
 ### Certifications
-- CompTIA A+ Core 1, April 2025
-- CompTIA A+ Core 2, May 2025
+- CompTIA A+, May 2025, ID: [WF4RXLVSWEVESFXJ](https://verify.comptia.org)
 
 ## Skills
 
-- **proficient in**: html, css, sass, python3
-- **okay at**: javascript, bash
+### Languages
+
+- CSS/Sass, ~19 years
+- HTML, ~19 years
+- Python, 1 year
+- bash, 1 year
+- lua, just enough to configure nvim
+
+### Technologies
+
+- Linux, macOS, Windows
+- Git
+- Docker
+- Oracle VM
 
 ## Professional History
 
@@ -48,6 +59,11 @@ IT career changer recovering from professional theater. While I'm currently on t
 ### IU Theatre & Dance
 #### 2017–19, Sound Technician
 - Assisted in setup and strike of live sound systems in proscenium and blackbox performance spaces for plays and musicals.
+
+### Indiana Daily Student
+#### 2016–19, General Assignment Reporter
+- Picked up primarily arts & entertainment event pitches.
+- Wrote a successful weekly astrology column my final semester whose March 2019 Mercury retrograde edition did bizarrely well with SEO.
 
 ### Freelance
 
@@ -86,7 +102,7 @@ IT career changer recovering from professional theater. While I'm currently on t
 - [tarot.py](https://codeberg.org/sailorfe/tarot.py) (Python). Minimal command-line deck using the random library.
 - [nick cave lyric search](https://kdlrose.github.io/nick-cave) (JavaScript). Lyric search for Nick Cave & The Bad Seeds, Grinderman, and Nick Cave & Warren Ellis.
 - [perona.nvim](https://codeberg.org/sailorfe/perona.nvim) (Lua, Vimscript). Bubblegum goth Neovim colorscheme with ports for foot, Alacritty, and more.
-- [moonqueen.nvim](https://codeberg.org/sailorfe/perona.nvim) (Lua, Vimscript). Magical girl Neovim colorscheme with ports for foot, Alacritty, and more.
+- [moonqueen.nvim](https://codeberg.org/sailorfe/moonqueen.nvim) (Lua, Vimscript). Magical girl Neovim colorscheme with ports for foot, Alacritty, and more.
 
 (*・ω・)ﾉ
 

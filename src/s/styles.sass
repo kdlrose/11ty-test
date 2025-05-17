@@ -1,4 +1,4 @@
-@use "moonqueen.sass"
+@use "perona.sass"
 @use "fonts.sass"
 
 @mixin mobile
@@ -12,14 +12,14 @@ body
   font-family: "Iosevka Web"
   font-size: 22px
   font-weight: 500
-  color: var(--bright-white)
+  color: var(--white)
 
   @include mobile
     width: 90%
 
 h1
   strong
-    color: var(--magenta)
+    color: var(--bright-magenta)
 
   em
     color: var(--bright-yellow)
@@ -31,7 +31,7 @@ h1
   font-weight: inherit
 
 h2
-  background-color: var(--bright-red)
+  background-color: var(--bright-green)
   color: var(--black)
   display: inline-block
   font-size: 1em
@@ -49,21 +49,24 @@ section, article
 section
   ul
     strong
-      color: var(--bright-cyan)
+      color: var(--bright-white)
 
 a
   color: var(--bright-yellow)
 
 a:hover
-  color: var(--bright-green)
+  color: var(--bright-blue)
 
 code
   color: var(--white)
   padding: 2px
   display: inline-block
 
+strong
+  weight: 800
+
 .cursor
-  color: var(--bright-blue)
+  color: var(--bright-cyan)
   animation: blink-animation 1s steps(2, start) infinite
   -webkit-animation: blink-animation 1s steps(2, start) infinite
 

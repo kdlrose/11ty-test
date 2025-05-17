@@ -9,55 +9,49 @@
 @font-face {
   font-family: "Iosevka Web";
   font-display: swap;
-  font-weight: 700;
+  font-weight: 800;
   font-stretch: normal;
   font-style: normal;
-  src: url("../f/Iosevka-Bold.woff2") format("woff2");
+  src: url("../f/Iosevka-ExtraBold.woff2") format("woff2");
 }
 @font-face {
   font-family: "Iosevka Web";
   font-display: swap;
-  font-weight: 700;
+  font-weight: 500;
   font-stretch: normal;
-  font-style: normal;
-  src: url("../IosevkaAile-Bold.woff2") format("woff2");
+  font-style: italic;
+  src: url("../f/Iosevka-Italic.woff2") format("woff2");
 }
 :root {
-  --black: #241a37;
-  --bright-black: #513b7d;
-  --red: #ef434c;
-  --bright-red: #fc737a;
-  --green: #6ca522;
-  --bright-green: #b6ca68;
-  --yellow: #ffc233;
-  --bright-yellow: #ffdd8f;
-  --blue: #508ae2;
-  --bright-blue: #7cacf4;
-  --magenta: #8d77f8;
-  --bright-magenta: #bcaffd;
-  --cyan: #e873d1;
-  --bright-cyan: #f7a1e6;
-  --white: #9181b1;
-  --bright-white: #d0c3ea;
+  --black: #281520;
+  --bright-black: #683152;
+  --red: #a90f30;
+  --bright-red: #de3557;
+  --green: #a75fb4;
+  --bright-green: #de91da;
+  --yellow: #e65667;
+  --bright-yellow: #eb8490;
+  --blue: #8dafe2;
+  --bright-blue: #b4cff8;
+  --magenta: #b54067;
+  --bright-magenta: #d65c85;
+  --cyan: #f269ad;
+  --bright-cyan: #ff99cc;
+  --white: #f4b9dc;
+  --bright-white: #f8d3e9;
 }
 
 body {
   font-family: sans-serif;
   color: var(--black);
-  max-width: 60em;
-  margin: auto;
+  margin: 1em;
   line-height: 1.3;
   font-weight: 500;
   font-size: 16px;
 }
-@media (max-width: 599px) {
-  body {
-    margin: 1em;
-  }
-}
 
 h1, h2, h3 {
-  color: var(--cyan);
+  color: var(--bright-magenta);
 }
 
 h2, h3, h4 {
@@ -69,8 +63,16 @@ h4 {
 }
 
 a {
-  color: var(--blue);
+  color: var(--green);
   text-decoration-thickness: 2px;
+}
+
+p {
+  max-width: 60em;
+}
+
+ul {
+  max-width: 80em;
 }
 
 /*# sourceMappingURL=resume.css.map */

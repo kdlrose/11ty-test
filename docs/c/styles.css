@@ -1,20 +1,20 @@
 :root {
-  --black: #241a37;
-  --bright-black: #513b7d;
-  --red: #ef434c;
-  --bright-red: #fc737a;
-  --green: #6ca522;
-  --bright-green: #b6ca68;
-  --yellow: #ffc233;
-  --bright-yellow: #ffdd8f;
-  --blue: #508ae2;
-  --bright-blue: #7cacf4;
-  --magenta: #8d77f8;
-  --bright-magenta: #bcaffd;
-  --cyan: #e873d1;
-  --bright-cyan: #f7a1e6;
-  --white: #9181b1;
-  --bright-white: #d0c3ea;
+  --black: #281520;
+  --bright-black: #683152;
+  --red: #a90f30;
+  --bright-red: #de3557;
+  --green: #a75fb4;
+  --bright-green: #de91da;
+  --yellow: #e65667;
+  --bright-yellow: #eb8490;
+  --blue: #8dafe2;
+  --bright-blue: #b4cff8;
+  --magenta: #b54067;
+  --bright-magenta: #d65c85;
+  --cyan: #f269ad;
+  --bright-cyan: #ff99cc;
+  --white: #f4b9dc;
+  --bright-white: #f8d3e9;
 }
 
 @font-face {
@@ -28,18 +28,18 @@
 @font-face {
   font-family: "Iosevka Web";
   font-display: swap;
-  font-weight: 700;
+  font-weight: 800;
   font-stretch: normal;
   font-style: normal;
-  src: url("../f/Iosevka-Bold.woff2") format("woff2");
+  src: url("../f/Iosevka-ExtraBold.woff2") format("woff2");
 }
 @font-face {
   font-family: "Iosevka Web";
   font-display: swap;
-  font-weight: 700;
+  font-weight: 500;
   font-stretch: normal;
-  font-style: normal;
-  src: url("../IosevkaAile-Bold.woff2") format("woff2");
+  font-style: italic;
+  src: url("../f/Iosevka-Italic.woff2") format("woff2");
 }
 :root {
   background-color: var(--black);
@@ -49,7 +49,7 @@ body {
   font-family: "Iosevka Web";
   font-size: 22px;
   font-weight: 500;
-  color: var(--bright-white);
+  color: var(--white);
 }
 @media (max-width: 599px) {
   body {
@@ -58,7 +58,7 @@ body {
 }
 
 h1 strong {
-  color: var(--magenta);
+  color: var(--bright-magenta);
 }
 h1 em {
   color: var(--bright-yellow);
@@ -72,7 +72,7 @@ h1 {
 }
 
 h2 {
-  background-color: var(--bright-red);
+  background-color: var(--bright-green);
   color: var(--black);
   display: inline-block;
   font-size: 1em;
@@ -92,7 +92,7 @@ section, article {
 }
 
 section ul strong {
-  color: var(--bright-cyan);
+  color: var(--bright-white);
 }
 
 a {
@@ -100,7 +100,7 @@ a {
 }
 
 a:hover {
-  color: var(--bright-green);
+  color: var(--bright-blue);
 }
 
 code {
@@ -109,8 +109,12 @@ code {
   display: inline-block;
 }
 
+strong {
+  weight: 800;
+}
+
 .cursor {
-  color: var(--bright-blue);
+  color: var(--bright-cyan);
   animation: blink-animation 1s steps(2, start) infinite;
   -webkit-animation: blink-animation 1s steps(2, start) infinite;
 }
