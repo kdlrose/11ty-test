@@ -82,7 +82,7 @@ IT career changer recovering from professional theater. Something of an operatin
 - 2020,	*(le) Deluge*, libretto by Kaela Mei-Shing Garvin/dir. Meaghan Deiter, College of the Holy Cross
 - 2020,	Workshop: *Harina Pan* by Sofia Palmero, Working Title Playwrights
 - 2020,	Assistant to Kim Euell, *FLEX* by Candrice Jones dir. Delicia Turner Sonnenburg, 44th Humana Festival
-- 2020,	Assistant to Sarah Lunnie, *Where the Mountain Meets the Sea…* by Jeff Augustin dir. Joshua Kahan Brody, 44th Humana Festival
+- 2020,	Assistant to Sarah Lunnie, *Where the Mountain Meets the Sea* by Jeff Augustin with music by The Bengsons/dir. Joshua Kahan Brody, 44th Humana Festival
 - 2020,	Assistant to Jenni Page-White, *Are You There?* by Vivian J.O. Barnes, Jonathan Norton and Gab Reisman/dir. Robert Barry Fleming, 44th Humana Festival
 - 2020,	*Louisville // Kentucky // USA* by Lisa Sanaye Dring/dir. Christine Albright Tufts, Actors Theatre of Louisville
 - 2020,	Assistant to Jessica Reese, *The Wolves* by Sarah DeLappe/dir. Pironne Yousefzadeh, Actors Theatre of Louisville
