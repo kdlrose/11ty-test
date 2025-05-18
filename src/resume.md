@@ -5,13 +5,13 @@ layout: resume.html
 # kdlr
 kathryn de la rosa | she/her | **krdlrosa at gmail dot com** | [kdlrose.github.io](https://kdlrose.github.io)
 
-IT career changer recovering from professional theater. Something of an operating system whisperer in the order of Linux, macOS, then Windows. I've been a web developer since elementary school but now love TUIs, servers, and scripting mostly in Python. I write everything in Neovim.
+CompTIA A+-certified career changer. With a background in professional theater and academia, I'm passionate about end-user education and empowerment because none of us should be afraid of tools we use every day. I've been a web developer since elementary school but now love TUIs, servers, and scripting mostly in Python. I write everything in Neovim.
 
 ## Skills
 
-- **languages:** *proficient in* python, css/sass, html/xml; *okay at* lua; *learning* bash
-- **OSes**: linux (debian, ubuntu), macOS, Windows 10 & 11, chromeOS
-- **technologies**: git, docker, oracle VM
+- **Languages:** *proficient in* Python, CSS/Sass, HTML/XML; *okay at* Lua; *learning* bash
+- **OSes**: Linux (Debian, Ubuntu), macOS, Windows 10 & 11, ChromeOS
+- **Technologies**: Git, Docker, Oracle VM
 
 ## Work History
 
@@ -28,13 +28,13 @@ IT career changer recovering from professional theater. Something of an operatin
 ### Actors Theatre of Louisville
 #### May–July 2020, Communications Coordinator
 - Contracted through the external relations department following the cancellation of the 2020 Humana Festival of New American Plays;
-- Produced first season of an in-house interview podcast hosted by Executive Artistic Director Robert Barry Fleming;
+- Produced first season of an in-house interview podcast hosted by Executive Artistic Director Robert Barry Fleming, including training host and guests in high-quality at-home audio capture;
 - Managed social media marketing;
 - Contributed to press releases, proofreading with WorkFront ProofHQ;
 - Wrote website copy and managed front-end using Umbraco.
 
 #### July 2019–March 2020, Dramaturgy and Literary Management Apprentice
-- Assisted in production dramaturgy for the 2019–20 season: world premieres *Where the Mountain Meets the Sea* by Jeff Augustin and *FLEX* by Candrice Jones in the 44th Humana Festival of New American Plays, and *The Wolves* by Sarah DeLappe;
+- Assisted in production dramaturgy for the 2019–20 season: world premieres *Where the Mountain Meets the Sea* by Jeff Augustin, *FLEX* by Candrice Jones, and *Are You There?* by Vivian J.O. Barnes, Jonathan Norton, and Gab Reisman in the 44th Humana Festival of New American Plays, and *The Wolves* by Sarah DeLappe;
 - Principal production dramaturgy to the 2019–20 Professional Training Company season, including the new play commission *Louisville // Kentucky // USA* by Lisa Sanaye Dring;
 - Supported literary office in regular reading and cataloging of script submissions using FileMaker Pro.
 
@@ -82,14 +82,14 @@ IT career changer recovering from professional theater. Something of an operatin
 
 - [sweater.py](https://codeberg.org/sailorfe/sweater.py) (Python). A simple stitch calculator for knitting seamless sweaters.
 - [tarot.py](https://codeberg.org/sailorfe/tarot.py) (Python). Minimal command-line deck using the random library.
-- [nick cave lyric search](https://kdlrose.github.io/nick-cave) (React). Lyric search for Nick Cave & The Bad Seeds, Grinderman, and Nick Cave & Warren Ellis.
+- [Nick Cave Lyric Search](https://kdlrose.github.io/nick-cave) (React). Lyric search for Nick Cave & The Bad Seeds, Grinderman, and Nick Cave & Warren Ellis.
 - [perona.nvim](https://codeberg.org/sailorfe/perona.nvim) (Lua, Vimscript). Bubblegum goth Neovim colorscheme with ports for foot, Alacritty, and more.
 - [moonqueen.nvim](https://codeberg.org/sailorfe/moonqueen.nvim) (Lua, Vimscript). Magical girl Neovim colorscheme with ports for foot, Alacritty, and more.
 
 ## Education
 
-- United Theological Seminary of the Twin Cities, 2021-23
-- BA, Indiana University Bloomington, 2015-19
+- United Theological Seminary of the Twin Cities, 2021-24 (18 credits)
+- BA/BAJ, Indiana University Bloomington, Theater & Drama/Journalism, 2015-19
 
 ### Certifications
 - CompTIA A+, May 2025, ID: [WF4RXLVSWEVESFXJ](https://verify.comptia.org)
