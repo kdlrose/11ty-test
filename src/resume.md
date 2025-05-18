@@ -74,7 +74,7 @@ CompTIA A+-certified career changer. With a background in professional theater a
 - 2022,	Nominee, Susan Smith Blackburn Prize – *Holy Virgins* (Actors Theatre of Louisville)
 - 2021,	Clusterf\*\*k Write Vol. 2., The COOP – *Arkansas*
 - 2021,	New Voices Emerging Playwrights Retreat, Ashland New Plays Festival – *NON SO PIU COSA SON*
-- 2021,	Finalist, APAFT & Artists at Play Emerging Playwright Commission
+- 2021,	Finalist, Asian Pacific American Friends of the Theater & Artists at Play Emerging Playwright Commission
 
 ## Projects
 
@@ -105,4 +105,3 @@ CompTIA A+-certified career changer. With a background in professional theater a
 - knitting and fiber conservation
 
 (*・ω・)ﾉ
-
